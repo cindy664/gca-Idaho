@@ -1,4 +1,124 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "University of Idaho",
+    "abbreviation": "UIdaho",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000ZoRP5IAN",
+    "programName": "UIdaho Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": "May 18",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "University of Idaho",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "UIdaho",
+    "phone": null,
+    "credits": null,
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviation": "UIdaho",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "University of Idaho",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "U of aho",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "University of Idaho",
+    "trackTitle": "Coding for Web Track",
+    "credits": null,
+    "abbreviation": "U of aho",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "University of Idaho",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "U of aho",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "University of Idaho",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "U of aho",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "University of Idaho",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "U of aho",
+    "registrationMessage": "2026 Summer registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 24",
+    "term2EndDate": "December 18"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "UIdaho Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "UIdaho"
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviation": "UIdaho",
+    "phone": null
+  }
+]
